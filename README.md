@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+🔭 I’m currently working on Bayesian Machine Learning
+🌱 I’m currently learning Data Science 
+👯 I’m looking to collaborate on Data Science Projects
 <!--
 **francescoferretto/francescoferretto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
