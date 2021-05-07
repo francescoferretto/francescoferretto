@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 
-🔭 I’m currently working on Bayesian Machine Learning
+#### 🔭 I’m currently working on Bayesian Machine Learning
 
-🌱 I’m currently learning Data Science 
+#### 🌱 I’m currently learning Data Science 
 
-👯 I’m looking to collaborate on Data Science Projects
+#### 👯 I’m looking to collaborate on Data Science Projects
 
 
 <!--
