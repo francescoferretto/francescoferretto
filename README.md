@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-#### 🔭 I’m currently working on Bayesian Machine Learning and Networks. 
+#### <center> 🔭 I’m currently working on Bayesian Machine Learning and Networks. </center>
 
 #### 🌱 I’m currently learning Data Science 
 
@@ -9,7 +9,7 @@
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=francescoferretto&show_icons=true&theme=Gradient" alt="Fra's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=francescoferretto&show_icons=true&theme=Gradient" alt="Fra's github stats" />
 </a>
 
 <!--
