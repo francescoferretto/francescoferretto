@@ -1,9 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Francesco 👋
 
-<p style="text-align:center;">Centered paragraph.</p>
-
-
-<center> 🔭 I’m currently working on Bayesian Machine Learning and Networks. </center>
+#### 🔭 I’m currently working on Bayesian Machine Learning and Networks 
 
 #### 🌱 I’m currently learning Data Science 
 
