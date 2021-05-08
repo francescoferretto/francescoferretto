@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-#### 🔭 I’m currently working on Bayesian Machine Learning
+#### 🔭 I’m currently working on Bayesian Machine Learning and Networks. 
 
 #### 🌱 I’m currently learning Data Science 
 
