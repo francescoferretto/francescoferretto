@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-<h1 style="text-align:center;">Hi there, I'm Francesco</h1>
 <p style="text-align:center;">Centered paragraph.</p>
 
 
-#### <center> 🔭 I’m currently working on Bayesian Machine Learning and Networks. </center>
+<center> 🔭 I’m currently working on Bayesian Machine Learning and Networks. </center>
 
 #### 🌱 I’m currently learning Data Science 
 
