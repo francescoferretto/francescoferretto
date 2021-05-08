@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<h1 style="text-align:center;">Hi there, I'm Francesco</h1>
+<p style="text-align:center;">Centered paragraph.</p>
+
 
 #### <center> 🔭 I’m currently working on Bayesian Machine Learning and Networks. </center>
 
@@ -10,6 +13,9 @@
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=francescoferretto&show_icons=true&theme=Gradient" alt="Fra's github stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francescoferretto" alt="Fra's github stats" />
 </a>
 
 <!--
@@ -27,10 +33,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francescoferretto" alt="Fra's github stats" />
-</a>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=francescoferretto)](https://github.com/francescoferretto/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=francescoferretto)](https://github.com/francescoferretto/github-readme-stats)>
 
