@@ -11,7 +11,7 @@
 </a>
 
 <a href="https://github.com/francescoferretto"> 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=francescoferretto&theme=gradient" alt="Fra's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=francescoferretto&theme=github_dark&hide_border = true" alt="Fra's github stats" />
 </a>
 
 
