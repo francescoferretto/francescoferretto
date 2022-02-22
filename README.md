@@ -6,9 +6,8 @@
 
 #### 👯 I’m looking to collaborate on Data Science Projects
 
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=francescoferretto&show_icons=true&theme=Gradient" alt="Fra's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=francescoferretto&show_icons=true&theme=Gradient&layout=compact" alt="Fra's github stats" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francescoferretto" alt="Fra's github stats" />
