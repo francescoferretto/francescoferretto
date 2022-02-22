@@ -10,7 +10,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=francescoferretto&show_icons=false&theme=Gradient&theme=github_dark&hide_border = true" alt="Fra's github stats" />
 </a>
 <a href="https://github.com/francescoferretto">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francescoferretto&layout=compact&theme=github_dark&hide_border = true" alt="Fra's github stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=francescoferretto&layout=compact&theme=github_dark&hide_border = true" alt="Fra's github stats" />
 </a>
 
 <!--
