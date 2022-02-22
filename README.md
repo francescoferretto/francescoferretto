@@ -7,7 +7,7 @@
 #### 👯 I’m looking to collaborate on Data Science Projects
 
 <a href="https://github.com/francescoferretto">
-  <img align="center"src="https://github-readme-stats.vercel.app/api/top-langs/?username=francescoferretto&theme=github_dark&hide_border = true&layout=compact" alt="Fra's github stats" />
+  <img align="center"src="https://github-readme-stats.vercel.app/api/top-langs/?username=francescoferretto&theme=github_dark&border_color=#000000&layout=compact" alt="Fra's github stats" />
 </a>
 
 <a href="https://github.com/francescoferretto"> 
