@@ -3,6 +3,10 @@
 
 I'm a fervid Data Science student enthusiastic about Statistics, Mathematics, Programming, all Machine Learning's flavours and in Classical Music. 
 
+### 🌱 Looking for an Internship Opportunity  
+
+### 👯 I’m looking to collaborate on Data Science Projects
+
 ### 🔭 I’m currently working on:
 #### - Bayesian Statistics and Machine Learning 
 #### - Networks 
@@ -10,10 +14,6 @@ I'm a fervid Data Science student enthusiastic about Statistics, Mathematics, Pr
 #### - Neural Networks 
 #### - Time Series 
 #### - A personal website 
-
-### 🌱 Looking for an Internship Opportunity  
-
-### 👯 I’m looking to collaborate on Data Science Projects
 
 ### :books: Here's some notes made by me and my colleagues: 
 #### - Algorithmic Methods @ [here](https://github.com/francescoferretto/Algorithmic-Methods)
@@ -26,7 +26,7 @@ You can find me on [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?styl
 - **Keyword-Spotting-Recognition-through-state-of-art-neural-architectures** (Repo)[https://github.com/francescoferretto/Keyword-Spotting-Recognition-through-state-of-art-neural-architectures]  
 The project focuses on models for speech recognition of a pre-defined set of keywords (Automatic Speech Recognition System) - Under Development.  
 - **Investigating-relationships-between-Twitter-latent-topics-and-political-orientation** (Repo)[https://github.com/francescoferretto/Investigating-relationships-between-Twitter-latent-topics-and-political-orientation]
-The aim of this project is, after a preliminary phase of manual data collection and labeling, in finding topics by analyzing the cluster of topics among different political parties and see their evolution through time. The candidate words for the topic detection were chosen via two different indicators 
+The aim of this project is, after a preliminary phase of manual data collection and labeling, in finding topics by analyzing the cluster of topics among different political parties and see their evolution through time. The candidate words for the topic detection were chosen via two different indicators [...]
 <!--- **** (Repo)[]
 - **** (Repo)[]
 - **** (Repo)[]
