@@ -23,9 +23,9 @@ You can find me on [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?styl
 
 ## Here some of my projects 
 
-- **Keyword-Spotting-Recognition-through-state-of-art-neural-architectures** (Repo)[https://github.com/francescoferretto/Keyword-Spotting-Recognition-through-state-of-art-neural-architectures]  
+- **Keyword-Spotting-Recognition-through-state-of-art-neural-architectures** [Repo](https://github.com/francescoferretto/Keyword-Spotting-Recognition-through-state-of-art-neural-architectures)
 The project focuses on models for speech recognition of a pre-defined set of keywords (Automatic Speech Recognition System) - Under Development.  
-- **Investigating-relationships-between-Twitter-latent-topics-and-political-orientation** (Repo)[https://github.com/francescoferretto/Investigating-relationships-between-Twitter-latent-topics-and-political-orientation]
+- **Investigating-relationships-between-Twitter-latent-topics-and-political-orientation** [Repo](https://github.com/francescoferretto/Investigating-relationships-between-Twitter-latent-topics-and-political-orientation)
 The aim of this project is, after a preliminary phase of manual data collection and labeling, in finding topics by analyzing the cluster of topics among different political parties and see their evolution through time. The candidate words for the topic detection were chosen via two different indicators [...]
 <!--- **** (Repo)[]
 - **** (Repo)[]
