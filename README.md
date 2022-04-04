@@ -60,15 +60,18 @@ I'm a fervid Data Science student enthusiastic about Statistics, Mathematics, Pr
 ### 🌱 Looking for an Internship Opportunity  
 ### 👯 I’m looking to collaborate on Data Science Projects
 ### 🔭 I’m currently working on:
-   - Bayesian Statistics and Machine Learning 
-    - Networks 
-    - Reinforcement Learning 
-    - Neural Networks   
-    - Time Series 
-    - A personal website 
+
+- Bayesian Statistics and Machine Learning 
+- Networks 
+- Reinforcement Learning 
+- Neural Networks   
+- Time Series 
+- A personal website 
+
 ### :books: Here's some notes made by me and my colleagues: 
-   - Algorithmic Methods @ [here](https://github.com/francescoferretto/Algorithmic-Methods)
-    - Neural Networks and Deep Learning @ [here](https://www.overleaf.com/project/6103979d2cc6aa0f833b96b3)
+
+- Algorithmic Methods @ [here](https://github.com/francescoferretto/Algorithmic-Methods)
+- Neural Networks and Deep Learning @ [here](https://www.overleaf.com/project/6103979d2cc6aa0f833b96b3)
 
 And some stats: 
 
