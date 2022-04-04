@@ -68,11 +68,7 @@ I'm a fervid Data Science student enthusiastic about Statistics, Mathematics, Pr
     from the assigned sequence. In the second
     part, the actual domain family characterization is
     performed analyzing different aspects: structure,
-    taxonomy and functions. Along with a PDF
-    report, each group is asked to submit domain
-    models, code, commands and generated data as
-    supplementary material.
-
+    taxonomy and functions. 
 
 
 And some stats: 
