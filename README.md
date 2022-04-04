@@ -30,6 +30,7 @@ I'm a fervid Data Science student enthusiastic about Statistics, Mathematics, Pr
     The aim of this project is, after a preliminary phase of manual data collection and labeling, in finding topics by analysing the cluster of tweets' words from people having different political parties. Two approaches where adopted for topic recognition:
     - a syntactic approach (TF-IDF index) and
     - a semantic one (with Doc2Vec).
+    
     To detect clusters of words (topics) the k-means algorithm was used (under the assumption of non-overlapping clusters of words) and applied w.r.t. time in order to analyse the progress. 
 
 - **Analysis-of-Rain-Behaviour-in-Australia** [Repo](https://github.com/francescoferretto/Analysis-of-Rain-Behaviour-in-Australia)
@@ -41,6 +42,7 @@ I'm a fervid Data Science student enthusiastic about Statistics, Mathematics, Pr
     Optimization project that tackles the problem of community detection through:
     - a Modularity based approach
     - a Graph Cut based approach
+    
     applied on the General Relativity and Quantum Cosmology collaboration network dataset, and other 3 from SNAP.
     The first optimization problem was faced with the usage of the FAST-ATVO algorithm, a software for community detection in undirected graphs with non-negative weights. The second one was addressed through Radio DCA and Fista.
 
