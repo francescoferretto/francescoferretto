@@ -68,6 +68,7 @@ supplementary material.
 #### - Neural Networks and Deep Learning @ [here](https://www.overleaf.com/project/6103979d2cc6aa0f833b96b3)
 
 And some stats: 
+
 <a href="https://github.com/francescoferretto">
   <img align="center"src="https://github-readme-stats.vercel.app/api/top-langs/?username=francescoferretto&theme=github_dark&layout=compact&border_color=000000" alt="Fra's github stats" />
 </a>
