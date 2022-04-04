@@ -7,26 +7,26 @@ I'm a fervid Data Science student enthusiastic about Statistics, Mathematics, Pr
 
 - **Keyword-Spotting-Recognition-through-state-of-art-neural-architectures** [Repo](https://github.com/francescoferretto/Keyword-Spotting-Recognition-through-state-of-art-neural-architectures)
 
-The project focuses on models for speech recognition of a pre-defined set of keywords (Automatic Speech Recognition System) - Under Development.  
+    The project focuses on models for speech recognition of a pre-defined set of keywords (Automatic Speech Recognition System) - Under Development.  
 
 - **Investigating-relationships-between-Twitter-latent-topics-and-political-orientation** [Repo](https://github.com/francescoferretto/Investigating-relationships-between-Twitter-latent-topics-and-political-orientation)
 
-The aim of this project is, after a preliminary phase of manual data collection and labeling, in finding topics by analysing the cluster of tweets' words from people having different political parties. Two approaches where adopted for topic recognition:
-- a syntactic approach (TF-IDF index) and
-- a semantic one (with Doc2Vec).
-To detect clusters of words (topics) the k-means algorithm was used (under the assumption of non-overlapping clusters of words) and applied w.r.t. time in order to analyse the progress. 
+    The aim of this project is, after a preliminary phase of manual data collection and labeling, in finding topics by analysing the cluster of tweets' words from people having different political parties. Two approaches where adopted for topic recognition:
+    - a syntactic approach (TF-IDF index) and
+    - a semantic one (with Doc2Vec).
+    To detect clusters of words (topics) the k-means algorithm was used (under the assumption of non-overlapping clusters of words) and applied w.r.t. time in order to analyse the progress. 
 
 - **Analysis-of-Rain-Behaviour-in-Australia** [Repo](https://github.com/francescoferretto/Analysis-of-Rain-Behaviour-in-Australia)
 
-The project analyses 140'000 daily meteorological measurements of 24 variables from 49 different Australian cities between the 2008 and 2017. One approach is to adapt a multiple linear regression model to the meteorological conditions (pressure, air direction, irradiation, ...) on day i wrt the quantity of fallen rain of day i+1, to overcome serious residuals' correlation the Cochrane-Orcutt procedure was applied. Another approach is to predict whether it could rain or not using logistic regression combined with dimensionality reduction techniques (e.g. PCA). 
+    The project analyses 140'000 daily meteorological measurements of 24 variables from 49 different Australian cities between the 2008 and 2017. One approach is to adapt a multiple linear regression model to the meteorological conditions (pressure, air direction, irradiation, ...) on day i wrt the quantity of fallen rain of day i+1, to overcome serious residuals' correlation the Cochrane-Orcutt procedure was applied. Another approach is to predict whether it could rain or not using logistic regression combined with dimensionality reduction techniques (e.g. PCA). 
 
 - **Community-Detection-Graph-Optimization-Methods-based-on-Modularity-and-Balanced-Cuts** [Repo](https://github.com/francescoferretto/Community-Detection-Graph-Optimization-Methods-based-on-Modularity-and-Balanced-Cuts)
 
-Optimization project that tackles the problem of community detection through:
-- a Modularity based approach
-- a Graph Cut based approach
-applied on the General Relativity and Quantum Cosmology collaboration network dataset, and other 3 from SNAP.
-The first optimization problem was faced with the usage of the FAST-ATVO algorithm, a software for community detection in undirected graphs with non-negative weights. The second one was addressed through Radio DCA and Fista.
+    Optimization project that tackles the problem of community detection through:
+    - a Modularity based approach
+    - a Graph Cut based approach
+    applied on the General Relativity and Quantum Cosmology collaboration network dataset, and other 3 from SNAP.
+    The first optimization problem was faced with the usage of the FAST-ATVO algorithm, a software for community detection in undirected graphs with non-negative weights. The second one was addressed through Radio DCA and Fista.
 
 - **MLProjectDS-2020** [Repo](https://github.com/francescoferretto/MLProjectDS-2020)
 
@@ -60,15 +60,15 @@ The first optimization problem was faced with the usage of the FAST-ATVO algorit
 ### 🌱 Looking for an Internship Opportunity  
 ### 👯 I’m looking to collaborate on Data Science Projects
 ### 🔭 I’m currently working on:
-        - Bayesian Statistics and Machine Learning 
-        - Networks 
-        - Reinforcement Learning 
-        - Neural Networks 
-        - Time Series 
-        - A personal website 
+   - Bayesian Statistics and Machine Learning 
+    - Networks 
+    - Reinforcement Learning 
+    - Neural Networks   
+    - Time Series 
+    - A personal website 
 ### :books: Here's some notes made by me and my colleagues: 
-        - Algorithmic Methods @ [here](https://github.com/francescoferretto/Algorithmic-Methods)
-        - Neural Networks and Deep Learning @ [here](https://www.overleaf.com/project/6103979d2cc6aa0f833b96b3)
+   - Algorithmic Methods @ [here](https://github.com/francescoferretto/Algorithmic-Methods)
+    - Neural Networks and Deep Learning @ [here](https://www.overleaf.com/project/6103979d2cc6aa0f833b96b3)
 
 And some stats: 
 
