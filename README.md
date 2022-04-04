@@ -14,9 +14,11 @@ The aim of this project is, after a preliminary phase of manual data collection 
   - a syntactic approach (TF-IDF index) and
   - a semantic one (with Doc2Vec).
 To detect clusters of words (topics) the k-means algorithm was used (under the assumption of non-overlapping clusters of words) and applied w.r.t. time in order to analyse the progress. 
+
 - **Analysis-of-Rain-Behaviour-in-Australia** [Repo](https://github.com/francescoferretto/Analysis-of-Rain-Behaviour-in-Australia)
 
-The project analyses 140'000 daily meteorological measurements of 24 variables from 49 different Australian cities between the 2008 and 2017. The main aim was to adapt a multiple linear regression model to the meteorological conditions (pressure, air direction, irradiation, ...) on day i wrt the quantity of fallen rain of day i+1, to overcome serious residuals' correlation the Cochrane-Orcutt procedure was applied. Another approach was to predict whether it could rain or not using logistic regression. 
+The project analyses 140'000 daily meteorological measurements of 24 variables from 49 different Australian cities between the 2008 and 2017. One approach is to adapt a multiple linear regression model to the meteorological conditions (pressure, air direction, irradiation, ...) on day i wrt the quantity of fallen rain of day i+1, to overcome serious residuals' correlation the Cochrane-Orcutt procedure was applied. Another approach is to predict whether it could rain or not using logistic regression combined with dimensionality reduction techniques (e.g. PCA). 
+
 - **Community-Detection-Graph-Optimization-Methods-based-on-Modularity-and-Balanced-Cuts** [Repo](https://github.com/francescoferretto/Community-Detection-Graph-Optimization-Methods-based-on-Modularity-and-Balanced-Cuts)
 
 Optimization project that tackles the problem of community detection through:
@@ -24,6 +26,7 @@ Optimization project that tackles the problem of community detection through:
   - a Graph Cut based approach
 applied on the General Relativity and Quantum Cosmology collaboration network dataset, and other 3 from SNAP.
 The first optimization problem was faced with the usage of the FAST-ATVO algorithm, a software for community detection in undirected graphs with non-negative weights. The second one was addressed through Radio DCA and Fista.
+
 - **MLProjectDS-2020** [Repo](https://github.com/francescoferretto/MLProjectDS-2020)
 In this work we explain, discuss and solve an image
 recognition problem in Machine Learning in a different
@@ -35,6 +38,7 @@ Neural Networks. We also report our results, and
 try to explain and interpret them. All the presented models
 were implemented using scikit-learn and keras
 modules for Python.
+
 - **Biological-Data-Project-Characterization-of-the-Phosphomethylpyrimidine-kinase-protein-domain**
 This project is about the characterization of
 a single protein domain. As starting point,
