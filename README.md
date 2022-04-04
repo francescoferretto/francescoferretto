@@ -3,6 +3,22 @@
 
 I'm a fervid Data Science student enthusiastic about Statistics, Mathematics, Programming, all Machine Learning's flavours and in Classical Music. You can find me on [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](http://www.linkedin.com/in/francesco-ferretto-at-ds)
 
+## 🌱 Looking for an Internship Opportunity  
+## 👯 I’m looking to collaborate on Data Science Projects
+## 🔭 I’m currently working on:
+
+- Bayesian Statistics and Machine Learning 
+- Networks 
+- Reinforcement Learning 
+- Neural Networks   
+- Time Series 
+- A personal website 
+
+### :books: Here's some notes made by me and my colleagues: 
+
+- Algorithmic Methods @ [here](https://github.com/francescoferretto/Algorithmic-Methods)
+- Neural Networks and Deep Learning @ [here](https://www.overleaf.com/project/6103979d2cc6aa0f833b96b3)
+
 ## Here some of my projects 
 
 - **Keyword-Spotting-Recognition-through-state-of-art-neural-architectures** [Repo](https://github.com/francescoferretto/Keyword-Spotting-Recognition-through-state-of-art-neural-architectures)
@@ -57,21 +73,7 @@ I'm a fervid Data Science student enthusiastic about Statistics, Mathematics, Pr
     models, code, commands and generated data as
     supplementary material.
 
-### 🌱 Looking for an Internship Opportunity  
-### 👯 I’m looking to collaborate on Data Science Projects
-### 🔭 I’m currently working on:
 
-- Bayesian Statistics and Machine Learning 
-- Networks 
-- Reinforcement Learning 
-- Neural Networks   
-- Time Series 
-- A personal website 
-
-### :books: Here's some notes made by me and my colleagues: 
-
-- Algorithmic Methods @ [here](https://github.com/francescoferretto/Algorithmic-Methods)
-- Neural Networks and Deep Learning @ [here](https://www.overleaf.com/project/6103979d2cc6aa0f833b96b3)
 
 And some stats: 
 
