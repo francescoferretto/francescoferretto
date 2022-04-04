@@ -13,16 +13,13 @@ The aim of this project is, after a preliminary phase of manual data collection 
 - a semantic one (with Doc2Vec).
 To detect clusters of words (topics) the k-means algorithm was used (under the assumption of non-overlapping clusters of words) and applied w.r.t. time in order to analyse the progress. 
 - **Analysis-of-Rain-Behaviour-in-Australia** [Repo](https://github.com/francescoferretto/Analysis-of-Rain-Behaviour-in-Australia)
-
 The project analyses 140'000 daily meteorological measurements of 24 variables from 49 different Australian cities between the 2008 and 2017. The main aim was to adapt a multiple linear regression model to the meteorological conditions (pressure, air direction, irradiation, ...) on day i wrt the quantity of fallen rain of day i+1, to overcome serious residuals' correlation the Cochrane-Orcutt procedure was applied. Another approach was to predict whether it could rain or not using logistic regression. 
 - **Community-Detection-Graph-Optimization-Methods-based-on-Modularity-and-Balanced-Cuts** [Repo](https://github.com/francescoferretto/Community-Detection-Graph-Optimization-Methods-based-on-Modularity-and-Balanced-Cuts)
-
 Optimization project that tackles the problem of community detection through:
-- a Modularity based approach
-- a Graph Cut based approach
+ - a Modularity based approach
+ - a Graph Cut based approach
 applied on the General Relativity and Quantum Cosmology collaboration network dataset, and other 3 from SNAP [0].
 The first optimization problem was faced with the usage of the FAST-ATVO algorithm, a software for community detection in undirected graphs with non-negative weights. The second one was addressed through Radio DCA and Fista.
-
 - **MLProjectDS-2020** [Repo](https://github.com/francescoferretto/MLProjectDS-2020)
 In this work we explain, discuss and solve an image
 recognition problem in Machine Learning in a different
@@ -50,9 +47,7 @@ models, code, commands and generated data as
 supplementary material.
  
 ### 🌱 Looking for an Internship Opportunity  
-
 ### 👯 I’m looking to collaborate on Data Science Projects
-
 ### 🔭 I’m currently working on:
 #### - Bayesian Statistics and Machine Learning 
 #### - Networks 
@@ -60,16 +55,11 @@ supplementary material.
 #### - Neural Networks 
 #### - Time Series 
 #### - A personal website 
-
 ### :books: Here's some notes made by me and my colleagues: 
 #### - Algorithmic Methods @ [here](https://github.com/francescoferretto/Algorithmic-Methods)
 #### - Neural Networks and Deep Learning @ [here](https://www.overleaf.com/project/6103979d2cc6aa0f833b96b3)
- 
-
-<!--## Ongoing Projects     -->
 
 And some stats: 
-
 <a href="https://github.com/francescoferretto">
   <img align="center"src="https://github-readme-stats.vercel.app/api/top-langs/?username=francescoferretto&theme=github_dark&layout=compact&border_color=000000" alt="Fra's github stats" />
 </a>
@@ -78,21 +68,4 @@ And some stats:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=francescoferretto&theme=github_dark&border_color=000000&hide=Contributed to" alt="Fra's github stats" />
 </a>
 
-
-<!--
-**francescoferretto/francescoferretto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Bayesian Machine Learning
-- 🌱 I’m currently learning Data Science 
-- 👯 I’m looking to collaborate on Data Science Projects
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about Statistics
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=francescoferretto)](https://github.com/francescoferretto/github-readme-stats)>
 
