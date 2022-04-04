@@ -7,12 +7,12 @@ I'm a fervid Data Science student enthusiastic about Statistics, Mathematics, Pr
 ## 👯 I’m looking to collaborate on Data Science Projects
 ## 🔭 I’m currently working on:
 
-- Bayesian Statistics and Machine Learning 
-- Networks 
-- Reinforcement Learning 
-- Neural Networks   
-- Time Series 
-- A personal website 
+- **Bayesian Statistics and Machine Learning**
+- **Networks**
+- **Reinforcement Learning**
+- **Neural Networks**
+- **Time Series**
+- **A personal website**
 
 ### :books: Here's some notes made by me and my colleagues: 
 
