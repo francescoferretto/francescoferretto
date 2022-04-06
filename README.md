@@ -16,8 +16,8 @@ I'm a fervid Data Science student enthusiastic about Statistics, Mathematics, Pr
 
 ### :books: Here's some notes made by me and my colleagues: 
 
-- Algorithmic Methods @ [here](https://github.com/francescoferretto/Algorithmic-Methods)
-- Neural Networks and Deep Learning @ [here](https://www.overleaf.com/project/6103979d2cc6aa0f833b96b3)
+- **Algorithmic Methods** @ [here](https://github.com/francescoferretto/Algorithmic-Methods)
+- **Neural Networks and Deep Learning** @ [here](https://www.overleaf.com/project/6103979d2cc6aa0f833b96b3)
 
 ## Here some of my projects 
 
@@ -73,7 +73,7 @@ I'm a fervid Data Science student enthusiastic about Statistics, Mathematics, Pr
     taxonomy and functions. 
 
 
-And some stats: 
+## Some stats: 
 
 <a href="https://github.com/francescoferretto">
   <img align="center"src="https://github-readme-stats.vercel.app/api/top-langs/?username=francescoferretto&theme=github_dark&layout=compact&border_color=000000" alt="Fra's github stats" />
