@@ -3,7 +3,7 @@
 
 I'm a fervid Data Science student enthusiastic about Statistics, Mathematics, Programming, all Machine Learning's flavours and in Classical Music. You can find me on [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](http://www.linkedin.com/in/francesco-ferretto-at-ds)
 
-### 🌱 Looking for an Internship Opportunity  
+### 🌱 Currently doing research for master's thesis at Pietro Fiorentini 
 ### 👯 I’m looking to collaborate on Data Science Projects
 ### 🔭 I’m currently working on:
 
