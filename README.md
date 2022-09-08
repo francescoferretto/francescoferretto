@@ -79,8 +79,5 @@ I'm a fervid Data Science student enthusiastic about Statistics, Mathematics, Pr
   <img align="center"src="https://github-readme-stats.vercel.app/api/top-langs/?username=francescoferretto&theme=github_dark&layout=compact&border_color=000000" alt="Fra's github stats" />
 </a>
 
-<a href="https://github.com/francescoferretto"> 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=francescoferretto&theme=github_dark&border_color=000000&hide=Contributed to" alt="Fra's github stats" />
-</a>
 
 
