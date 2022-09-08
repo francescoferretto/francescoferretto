@@ -21,7 +21,7 @@ I'm a fervid Data Science student enthusiastic about Statistics, Mathematics, Pr
 
 ## Here some of my projects 
 
-- **Keyword-Spotting-Recognition-through-state-of-art-neural-architectures** [Repo](https://github.com/francescoferretto/Keyword-Spotting-Recognition-through-state-of-art-neural-architectures)
+- **Keyword-Spotting-Recognition-through-state-of-art-neural-architectures** [Repo](https://github.com/FedericaLatora/Keyword-Spotting-Recognition-through-state-of-art-neural-architectures)
 
     The project focuses on models for speech recognition of a pre-defined set of keywords (Automatic Speech Recognition System) - Under Development.  
 
