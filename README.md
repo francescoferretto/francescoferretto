@@ -3,12 +3,14 @@
 
 I'm a fervid Data Science student enthusiastic about Statistics, Mathematics, Programming, all Machine Learning's flavours and in Classical Music. You can find me on [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](http://www.linkedin.com/in/francesco-ferretto-at-ds)
 
-### 🌱 Currently doing research for master's thesis at Pietro Fiorentini 
+### 🌱 Currently looking
 ### 👯 I’m looking to collaborate on Data Science Projects
 ### 🔭 I’m currently working on:
 
 - **Bayesian Statistics and Machine Learning**
 - **Networks**
+- **Physics Informed Neural Networks**
+- **Active Learning and Optimal Experimental Design**
 - **Reinforcement Learning**
 - **Neural Networks**
 - **Time Series**
