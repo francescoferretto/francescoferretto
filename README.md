@@ -3,7 +3,7 @@
 
 I'm a fervid Data Science student enthusiastic about Statistics, Mathematics, Programming, all Machine Learning's flavours and in Classical Music. You can find me on [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](http://www.linkedin.com/in/francesco-ferretto-at-ds)
 
-### 🌱 Currently looking for a job opportunity
+### 🌱 Currently working at Hitachi as a R&D Data Scientist
 ### 👯 I’m looking to collaborate on Data Science Projects
 ### 🔭 I’m currently working on:
 
@@ -13,6 +13,7 @@ I'm a fervid Data Science student enthusiastic about Statistics, Mathematics, Pr
 - **Active Learning and Optimal Experimental Design**
 - **Reinforcement Learning**
 - **Neural Networks**
+- **Machine Learning Model Deployment**
 - **Time Series**
 - **A personal website**
 
